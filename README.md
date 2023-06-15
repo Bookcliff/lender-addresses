@@ -12,7 +12,6 @@ fewefsd
 afdewe
 sadfwe
 
-sdfwew
 asdfwe
 sdsd
 sdfasef
