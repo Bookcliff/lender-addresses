@@ -10,8 +10,3 @@ asfwefsd
 wefsfaw
 fewefsd
 afdewe
-
-sfawedef
-fasdfs
-asdfwes
-dfesdfwe
