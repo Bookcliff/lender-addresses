@@ -11,8 +11,6 @@ wefsfaw
 fewefsd
 afdewe
 
-asdfwe
-sdsd
 sfawedef
 fasdfs
 asdfwes
