@@ -2,6 +2,5 @@
 
 sef = sev
 
-aedfswe
 adfwe
 fwefwea
