@@ -4,6 +4,3 @@ sef
 fsadfsdfasdfsdfsdfsdf
 sfsdf
 asdf
-asdffwe
-sdfsdf
-asfwefsd
